@@ -4,7 +4,7 @@ some project gif.
 
 5miles
 
-![alt tag](https://raw.github.com/oday0311/oop/master/5miles.gif)
+![alt tag](https://github.com/oday0311/oop/blob/master/5miles.gif)
 
 
 ====================================
