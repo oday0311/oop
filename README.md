@@ -22,3 +22,19 @@ some project gif.
 
 ![alt tag](https://raw.github.com/oday0311/oop/master/写汉字demo.gif)
 
+
+
+
+
+
+=======================================Android ==============================
+
+1024 网页版
+![alt tag](https://raw.github.com/oday0311/oop/master/1024_web.png)
+
+
+
+
+每日一问Android client
+![alt tag](https://raw.github.com/oday0311/oop/master/meiriyiwen.png)
+
